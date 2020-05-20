@@ -119,6 +119,9 @@ pre code {
         margin:10px auto;
     }
 }
+@media print {
+  body { font-size: 12pt; }
+}
 
 /*
 foundation.css
